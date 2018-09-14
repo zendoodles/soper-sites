@@ -1,1 +1,3 @@
-# soper-sites
+# Soper web sites...
+
+This is the code home for a variety of *soper.com websites.
