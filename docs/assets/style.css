@@ -1,0 +1,51 @@
+body, html {
+    height: 100%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+div {
+    padding-left: 15%;
+}
+
+.title {
+    margin-left: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.logo {
+    height: 4.5em;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+
+h1 {
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+.sub-title a {
+    color: #ddd;
+    text-decoration: none;
+}
+
+p {
+    color: white;
+}
+
+
+.background {
+    height: 50%;
+    background-color: #191919;
+    background-image: url("chicago-skyline-at-night.jpg");
+    background-position: calc(50% - 50px) 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
